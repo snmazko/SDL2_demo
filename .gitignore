@@ -1,4 +1,7 @@
-*
+.*
 !.gitignore
 !*.h
 !*.cpp
+Debug
+Release
+text
